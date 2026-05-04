@@ -1,0 +1,12 @@
+Task Title: User Profile System
+Trello Card: #5
+
+Description:
+Implement a complete user profile system that allows users to create, view, and update their personal information within the application. The system should securely manage user data and provide a clean interface for interaction.
+
+Features:
+
+Create user profile with basic information (name, email, profile picture)
+View profile details
+Edit and update profile information
+Secure data handling and validation
